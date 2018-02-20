@@ -396,12 +396,13 @@ footer .footer-icons{
  padding: 0 30px;
  color: var(--white);
 }
-footer .fab{
-  color: var(--main-bg) !important;
- 
-}
+
 .footer-icons .fab{
   font-size: 22px;
+}
+.svg-inline--fa {
+  color: var(--main-bg);
+  font-size: 20px; 
 }
 
 footer .copyright p {
