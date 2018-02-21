@@ -416,6 +416,9 @@ background: linear-gradient(rgba(48,48,48, 0.8), rgba(48,48,48, 0.8)), url('../i
   color: #D5D5D5;
   font-style: italic;
 }
+.form button{
+  margin-left: 34px;
+}
 /* Footer */
 
 footer{
